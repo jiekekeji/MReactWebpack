@@ -12,6 +12,7 @@
   </pre>
   
   2、新建components目录，在里面创建几个组件
+  
   ![image](https://github.com/jiekekeji/MReactWebpack/blob/master/hello2-react/public/img1.png)
   
   3、App.js中:
