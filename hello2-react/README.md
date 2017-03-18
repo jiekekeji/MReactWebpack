@@ -54,4 +54,4 @@
   </pre>
   
   4、效果：
-  ![image](https://github.com/jiekekeji/MReactWebpack/blob/master/hello2-react/public/img2.png)
+  ![image](https://github.com/jiekekeji/MReactWebpack/blob/master/hello2-react/public/img2.gif)
