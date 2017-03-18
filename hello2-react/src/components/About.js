@@ -1,7 +1,9 @@
 import React from 'react'
 
-export default React.createClass({
-    render() {
-        return <div>About</div>
-    }
-})
+const About = () => (
+    <div>
+        <h2>About</h2>
+    </div>
+)
+
+export default About;
