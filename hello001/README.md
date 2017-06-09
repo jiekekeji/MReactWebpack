@@ -1,4 +1,4 @@
-#react脚手架搭建项目
+#react脚手架create-react-app搭建项目
 
   开始之前先安装好nodejs。
   
